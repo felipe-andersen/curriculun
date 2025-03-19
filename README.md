@@ -14,7 +14,7 @@ felipe.coutinho.psl@gmail.com <br/>
 
 ## Resumo
 
-Tenho habilidades em lógica, programação e resolução de problemas, com paixão por lançamentos de novos produtos. Trabalho bem com prazos curtos e atuo com uma mentalidade ágil, orientado desenvolvimento estratégico do produto/negócio .
+Tenho habilidades em lógica, programação e resolução de problemas, com paixão por lançamentos de novos produtos. Tenho habilidades em lógica, programação e resolução de problemas, com paixão por lançamentos de novos produtos. Trabalho bem sob pressão e prazos curtos, adotando uma mentalidade ágil e estratégica para impulsionar o desenvolvimento e a valorização de produtos e negócios.
 
 ## Experiência/portifólio
 
