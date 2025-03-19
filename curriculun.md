@@ -9,7 +9,7 @@ Naturalidade: Niterói - RJ <br/>
 
 felipe.coutinho.psl@gmail.com <br/>
 
-[Landpageconversion](https://https://lipsitesapp.decortise.com.br/) <br/>
+[Landpageconversion](https://lipsitesapp.decortise.com.br/) <br/>
 
 [Linkedin](https://www.linkedin.com/in/felipe-a-dev♨-565b6a208/) 
 
