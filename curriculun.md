@@ -11,7 +11,7 @@ felipe.coutinho.psl@gmail.com <br/>
 
 [Landpageconversion](https://esteticarapp.decortise.com.br/dashboard/PDV) <br/>
 
-[Linkedin](www.linkedin.com/in/felipe-a-dev♨-565b6a208/) 
+[Linkedin](https://www.linkedin.com/in/felipe-a-dev♨-565b6a208/) 
 
 ## Resumo
 
