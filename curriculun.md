@@ -25,6 +25,8 @@ Tenho habilidades em lógica, programação e resolução de problemas, com paix
 - Startup focada em soluções SaaS para o setor financeiro.Experiência Projeto Terramade. A ideia é desenvolver uma plataforma para pessoas comuns buscarem referências arquitetônicas, normas de construção locais e contratar serviços relacionados com a administração residencial. Projeto web desenvolvido A versão mobile em TypeScript usando uma biblioteca react-native rodando em expo. Tecnologias TypeScript. Aprendendo e colocando meus conhecimentos em projeto pessoal. Git: Conhecimento sólido sobre comandos básicos do git e aprendendo sobre workflow como Docker, NPM: baixar e publicar pacotes, e passar flags para alterar o gerenciador padrão.
 
 - Ferramentas: Typescript, react, supabase, vitest, docker, cloudflare, nginx e opentelemetry.
+  
+- [Github](https://github.com/felipe-andersen/esteticar) 
 
 #### Terramade (Desenvolvedor Front-end) | Jan/2022 – Atual
 [Terramade App](https://www.figma.com/design/kLqsffeTsYgkviDlChNrOt/Terramade?m=auto&t=V2DbvHTE1ZlmskfY-1)  
