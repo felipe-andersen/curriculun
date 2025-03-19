@@ -9,7 +9,7 @@ Naturalidade: Niterói - RJ <br/>
 
 felipe.coutinho.psl@gmail.com <br/>
 
-[Landpageconversion](https://esteticarapp.decortise.com.br/dashboard/PDV) <br/>
+[Landpageconversion](https://https://lipsitesapp.decortise.com.br/) <br/>
 
 [Linkedin](https://www.linkedin.com/in/felipe-a-dev♨-565b6a208/) 
 
@@ -27,7 +27,7 @@ Tenho habilidades em lógica, programação e resolução de problemas, com paix
 - Ferramentas: Typescript, react, supabase, vitest, docker, cloudflare, nginx e opentelemetry.
 
 #### Terramade (Desenvolvedor Front-end) | Jan/2022 – Atual
-[Terramade App](https://esteticarapp.decortise.com.br/dashboard/PDV)  
+[Terramade App](https://www.figma.com/design/kLqsffeTsYgkviDlChNrOt/Terramade?m=auto&t=V2DbvHTE1ZlmskfY-1)  
 
 - A ideia é desenvolver uma plataforma para pessoas comuns buscarem referências arquitetônicas, normas de construção locais e contratar serviços relacionados com a administração residencial.
 
