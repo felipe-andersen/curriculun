@@ -21,7 +21,7 @@ Tenho habilidades em lógica, programação e resolução de problemas, com paix
 #### Esteticar (Desenvolvedor Front-end) | Jan/2024 – Atual
 [Esteticar App](https://esteticarapp.decortise.com.br/dashboard/PDV)  
 
-- Sistema de gestão de lava-jato. Desafios: definicao de regras de negócio, levantamento de requisitos funcionais e modelagem de banco de dados.
+- Sistema de gestão de lava-jato. Desafios: definição de servidor e serviços cloud, implementão de testes, arquitetura, definição de regras de negócio, ui/ux, etc.
 
 - **Ferramentas e tecnologias**: typescript, nextjs, supabase, vitest, docker, cloudflare, nginx e opentelemetry.
 
@@ -34,7 +34,7 @@ Tenho habilidades em lógica, programação e resolução de problemas, com paix
 #### Terramade (Desenvolvedor Front-end) | Jan/2022 – Atual
 [Terramade App](https://www.figma.com/design/kLqsffeTsYgkviDlChNrOt/Terramade?m=auto&t=V2DbvHTE1ZlmskfY-1)  
 
-- Plataforma para pessoas comuns buscarem referências arquitetônicas, normas de construção locais e contratar serviços relacionados a construção civil. Desafios: definicao de regras de negócio, levantamento de requisitos funcionais e modelagem de banco de dados.
+- Plataforma para pessoas comuns buscarem referências arquitetônicas, normas de construção locais e contratar serviços relacionados a construção civil. Desafios: definicao de regras de negócio, levantamento de requisitos funcionais e modelagem de banco de dados, carregamento rápido, código modular, etc.
 
 - **Principais features**: sistema de autenticação, sistema de feed, sistema de postagem e envio de email.
 
