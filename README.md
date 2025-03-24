@@ -23,14 +23,18 @@ Tenho habilidades em lógica, programação e resolução de problemas, com paix
 
 - Projeto de saas no ramo automobilístico. Gerenciamento de lava-jato. 
 
-- Ferramentas: Typescript, react, supabase, vitest, docker, cloudflare, nginx e opentelemetry. Principais features: sistema de autenticação, crud com supabase, envio de email.
+- Ferramentas e tecnologias usadas: typescript, nextjs, supabase, vitest, docker, cloudflare, nginx e opentelemetry.
+
+- Principais features: sistema de autenticação, sistema de feed, sistema de postagem, envio de email.
+
+- Dados qualitativos/quantitativos: implementei a técnica multi-stage build e reduzi o tamanho do container em 30%, aumentando eficiência operacional e consumo de espaço.
   
 - [Github](https://github.com/felipe-andersen/esteticar) 
 
 #### Terramade (Desenvolvedor Front-end) | Jan/2022 – Atual
 [Terramade App](https://www.figma.com/design/kLqsffeTsYgkviDlChNrOt/Terramade?m=auto&t=V2DbvHTE1ZlmskfY-1)  
 
-- A ideia é desenvolver uma plataforma para pessoas comuns buscarem referências arquitetônicas, normas de construção locais e contratar serviços relacionados com a administração residencial. Desafios: Modelagem de banco de dados,
+- Plataforma para pessoas comuns buscarem referências arquitetônicas, normas de construção locais e contratar serviços relacionados a construção civil. Desafios: Definicao de regras de negócio, levantamento de requisitos funcionais e modelagem de banco de dados.
 
 - Principais features: sistema de autenticação, crud com supabase, envio de email. 
 
@@ -42,7 +46,7 @@ Tenho habilidades em lógica, programação e resolução de problemas, com paix
 
 #### Mentoria Faladev | Out/2024 - Atual
 
-- Mentorias semanais sobre carreira tech.
+- Mentorias semanais sobre carreira tech com Marcos Fonseca e Isaac.
   
 - Temas abordados: Comunicação, posicionamento, trabalho em equipe, cargos e promoções, produtividade, empreendedorismo, etc.
 
