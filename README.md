@@ -21,18 +21,22 @@ Tenho habilidades em lógica, programação e resolução de problemas, com paix
 #### Esteticar (Desenvolvedor Front-end) | Jan/2024 – Atual
 [Esteticar App](https://esteticarapp.decortise.com.br/dashboard/PDV)  
 
-- Projeto de saas no ramo automobilístico. Gerenciamento de lava-jato.
+- Projeto de saas no ramo automobilístico. Gerenciamento de lava-jato. 
 
-- Ferramentas: Typescript, react, supabase, vitest, docker, cloudflare, nginx e opentelemetry.
+- Ferramentas: Typescript, react, supabase, vitest, docker, cloudflare, nginx e opentelemetry. Principais features: sistema de autenticação, crud com supabase, envio de email.
   
 - [Github](https://github.com/felipe-andersen/esteticar) 
 
 #### Terramade (Desenvolvedor Front-end) | Jan/2022 – Atual
 [Terramade App](https://www.figma.com/design/kLqsffeTsYgkviDlChNrOt/Terramade?m=auto&t=V2DbvHTE1ZlmskfY-1)  
 
-- A ideia é desenvolver uma plataforma para pessoas comuns buscarem referências arquitetônicas, normas de construção locais e contratar serviços relacionados com a administração residencial.
+- A ideia é desenvolver uma plataforma para pessoas comuns buscarem referências arquitetônicas, normas de construção locais e contratar serviços relacionados com a administração residencial. Desafios: Modelagem de banco de dados,
 
-- Ferramentas: Typescript, Expo e React Native.
+- Principais features: sistema de autenticação, crud com supabase, envio de email. 
+
+- Ferramentas: Typescript, Nextjs, tanstack query, cloudflare e supabase.
+  
+- Dados qualitativos/quantitativos: Otimizei a performance com algoritimo xpto. 
 
 ## Cursos
 
