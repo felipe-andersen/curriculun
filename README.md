@@ -21,26 +21,26 @@ Tenho habilidades em lógica, programação e resolução de problemas, com paix
 #### Esteticar (Desenvolvedor Front-end) | Jan/2024 – Atual
 [Esteticar App](https://esteticarapp.decortise.com.br/dashboard/PDV)  
 
-- Projeto de saas no ramo automobilístico. Gerenciamento de lava-jato. 
+- Sistema de gestão de lava-jato. Desafios: definicao de regras de negócio, levantamento de requisitos funcionais e modelagem de banco de dados.
 
-- Ferramentas e tecnologias usadas: typescript, nextjs, supabase, vitest, docker, cloudflare, nginx e opentelemetry.
+- **Ferramentas e tecnologias**: typescript, nextjs, supabase, vitest, docker, cloudflare, nginx e opentelemetry.
 
-- Principais features: sistema de autenticação, sistema de feed, sistema de postagem, envio de email.
+- **Principais features**: sistema de autenticação e envio de email.
 
-- Dados qualitativos/quantitativos: implementei a técnica multi-stage build e reduzi o tamanho do container em 30%, aumentando eficiência operacional e consumo de espaço.
+- **Dados qualitativos/quantitativos**: implementei a técnica multi-stage build e reduzi o tamanho do container em 30%, aumentando eficiência operacional e consumo de espaço.
   
 - [Github](https://github.com/felipe-andersen/esteticar) 
 
 #### Terramade (Desenvolvedor Front-end) | Jan/2022 – Atual
 [Terramade App](https://www.figma.com/design/kLqsffeTsYgkviDlChNrOt/Terramade?m=auto&t=V2DbvHTE1ZlmskfY-1)  
 
-- Plataforma para pessoas comuns buscarem referências arquitetônicas, normas de construção locais e contratar serviços relacionados a construção civil. Desafios: Definicao de regras de negócio, levantamento de requisitos funcionais e modelagem de banco de dados.
+- Plataforma para pessoas comuns buscarem referências arquitetônicas, normas de construção locais e contratar serviços relacionados a construção civil. Desafios: definicao de regras de negócio, levantamento de requisitos funcionais e modelagem de banco de dados.
 
-- Principais features: sistema de autenticação, crud com supabase, envio de email. 
+- **Principais features**: sistema de autenticação, sistema de feed, sistema de postagem e envio de email.
 
-- Ferramentas: Typescript, Nextjs, tanstack query, cloudflare e supabase.
+- **Ferramentas e tecnologias**: typescript, Nextjs, tanstack query, cloudflare e supabase.
   
-- Dados qualitativos/quantitativos: Otimizei a performance com algoritimo xpto. 
+- **Dados qualitativos/quantitativos**: Otimizei a performance com algoritimo xpto. 
 
 ## Cursos
 
