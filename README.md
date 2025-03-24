@@ -54,4 +54,4 @@ Tenho habilidades em lógica, programação e resolução de problemas, com paix
 
 - Curso profissionalizante com duração de 1 ano.
 
-- React native, typescript, css-in-js, expo, teste de unitários e teste de integração, ci/cd, Play Store, Apple App Store.
+- React native, typescript, css-in-js, expo, teste de unitários e teste de integração, autenticação social, ci/cd, Play Store, Apple App Store.
