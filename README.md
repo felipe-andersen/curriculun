@@ -27,7 +27,7 @@ Tenho habilidades em lógica, programação e resolução de problemas, com paix
 
 - **Principais features**: sistema de autenticação e envio de email.
 
-- **Dados qualitativos/quantitativos**: implementei a técnica multi-stage build e reduzi o tamanho do container em 30%, aumentando eficiência operacional e consumo de espaço.
+- **Dados qualitativos/quantitativos**: Reduzi em 35% o tempo de renderização de uma componente com a introdução do hook memo do react - uma redução de 29ms.
   
 - [Github](https://github.com/felipe-andersen/esteticar) 
 
