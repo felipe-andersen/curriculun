@@ -8,9 +8,9 @@ Naturalidade: Niterói - RJ <br/>
 
 felipe.coutinho.psl@gmail.com <br/>
 
-[Landpageconversion](https://lipsitesapp.decortise.com.br/) <br/>
+Website: https://lipsitesapp.decortise.com.br
 
-[Linkedin](https://www.linkedin.com/in/felipe-a-dev♨-565b6a208/) 
+Linkedin: https://www.linkedin.com/in/felipe-a-dev♨-565b6a208/
 
 ## Resumo
 
@@ -21,7 +21,7 @@ Venho aprimorando habilidades de comunicação para me expressar de forma objeti
 #### Esteticar | Jan/2024 – Atual
 [Esteticar App](https://esteticarapp.decortise.com.br/dashboard/PDV)  
 
-- Sistema de gestão de lava-jato. Desafios: definição de servidor e serviços cloud, implementão de testes, arquitetura, definição de regras de negócio, ui/ux, etc.
+- Sistema de gestão de lava-jato. Desafios: Projeto fullstack onde implementei arquitetura (MVVM), defini de regras de negócio, e implementei conceitos como carregamento rápido, código modular, ui/ux, etc.
 
 - **Ferramentas e tecnologias**: typescript, nextjs, supabase, vitest, docker, cloudflare e nginx.
 
@@ -34,7 +34,7 @@ Venho aprimorando habilidades de comunicação para me expressar de forma objeti
 #### Terramade | Jan/2022 – Atual
 [Terramade App](https://www.figma.com/design/kLqsffeTsYgkviDlChNrOt/Terramade?m=auto&t=V2DbvHTE1ZlmskfY-1)  
 
-- Plataforma para pessoas comuns buscarem referências arquitetônicas, normas de construção locais e contratar serviços relacionados a construção civil. Desafios: definicao de regras de negócio, levantamento de requisitos funcionais e modelagem de banco de dados, carregamento rápido, código modular, etc.
+- Plataforma para pessoas comuns buscarem referências arquitetônicas, normas de construção locais e contratar serviços relacionados a construção civil. Principais desafios: levantamento de requisitos funcionais, crud, etc.
 
 - **Principais features**: sistema de feed e sistema de postagem.
 
