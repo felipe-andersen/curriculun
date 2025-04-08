@@ -14,11 +14,11 @@ felipe.coutinho.psl@gmail.com <br/>
 
 ## Resumo
 
-Tenho habilidades em lógica, programação e resolução de problemas, com paixão por lançamentos de novos produtos. Trabalho bem sob pressão e prazos curtos, adotando uma mentalidade ágil e estratégica para impulsionar o desenvolvimento e a valorização de produtos e negócios.
+Venho aprimorando habilidades de comunicação para me expressar de forma objetiva e assertiva. Pratico a visão a longo prazo e antecipando a possíveis cenários sugeriro estratégias em nível técnico e de negócio. Adoto uma postura crítica com relação ao negócio/produto para entender melhor o contexto e propor ideias e sugestões que entregam percepção de valor para stakeholders.
 
 ## Experiência/portifólio
 
-#### Esteticar (Desenvolvedor Front-end) | Jan/2024 – Atual
+#### Esteticar | Jan/2024 – Atual
 [Esteticar App](https://esteticarapp.decortise.com.br/dashboard/PDV)  
 
 - Sistema de gestão de lava-jato. Desafios: definição de servidor e serviços cloud, implementão de testes, arquitetura, definição de regras de negócio, ui/ux, etc.
@@ -31,7 +31,7 @@ Tenho habilidades em lógica, programação e resolução de problemas, com paix
   
 - [Github](https://github.com/felipe-andersen/esteticar) 
 
-#### Terramade (Desenvolvedor Front-end) | Jan/2022 – Atual
+#### Terramade | Jan/2022 – Atual
 [Terramade App](https://www.figma.com/design/kLqsffeTsYgkviDlChNrOt/Terramade?m=auto&t=V2DbvHTE1ZlmskfY-1)  
 
 - Plataforma para pessoas comuns buscarem referências arquitetônicas, normas de construção locais e contratar serviços relacionados a construção civil. Desafios: definicao de regras de negócio, levantamento de requisitos funcionais e modelagem de banco de dados, carregamento rápido, código modular, etc.
@@ -44,13 +44,13 @@ Tenho habilidades em lógica, programação e resolução de problemas, com paix
 
 ## Cursos
 
-#### Mentoria Faladev | Out/2024 - Atual
+#### Mentoria Faladev | Out/2024 – Atual
 
 - Mentorias semanais sobre carreira tech com Marcos Fonseca e Isaac.
   
 - Temas abordados: Comunicação, posicionamento, trabalho em equipe, cargos e promoções, produtividade, empreendedorismo, etc.
 
-#### Ignite (Desenvolvimento mobile) | Rocketseat | Jan/2022 – Dez/2022
+#### Ignite Trilha mobile Rocketseat | Jan/2022 – Dez/2022
 
 - Curso profissionalizante com duração de 1 ano.
 
