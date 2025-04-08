@@ -40,7 +40,7 @@ Tenho habilidades em lógica, programação e resolução de problemas, com paix
 
 - **Ferramentas e tecnologias**: Nextjs, cloudflare.
   
-- **Dados qualitativos/quantitativos**: Otimizei a performance com algoritimo xpto. 
+- **Dados qualitativos/quantitativos**: Graças ao uso de Cloudflare como CDN, a plataforma entrega uma experiência fluida mesmo com conexões móveis.
 
 ## Cursos
 
