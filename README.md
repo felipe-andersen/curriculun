@@ -23,9 +23,9 @@ Tenho habilidades em lógica, programação e resolução de problemas, com paix
 
 - Sistema de gestão de lava-jato. Desafios: definição de servidor e serviços cloud, implementão de testes, arquitetura, definição de regras de negócio, ui/ux, etc.
 
-- **Ferramentas e tecnologias**: typescript, nextjs, supabase, vitest, docker, cloudflare, nginx e opentelemetry.
+- **Ferramentas e tecnologias**: typescript, nextjs, supabase, vitest, docker, cloudflare e nginx.
 
-- **Principais features**: sistema de autenticação e envio de email.
+- **Principais features**: sistema de cadastro.
 
 - **Dados qualitativos/quantitativos**: Reduzi em 35% o tempo de renderização de uma componente com a introdução do hook memo do react - uma redução de 29ms.
   
@@ -36,9 +36,9 @@ Tenho habilidades em lógica, programação e resolução de problemas, com paix
 
 - Plataforma para pessoas comuns buscarem referências arquitetônicas, normas de construção locais e contratar serviços relacionados a construção civil. Desafios: definicao de regras de negócio, levantamento de requisitos funcionais e modelagem de banco de dados, carregamento rápido, código modular, etc.
 
-- **Principais features**: sistema de autenticação, sistema de feed, sistema de postagem e envio de email.
+- **Principais features**: sistema de feed e sistema de postagem.
 
-- **Ferramentas e tecnologias**: typescript, Nextjs, tanstack query, cloudflare e supabase.
+- **Ferramentas e tecnologias**: Nextjs, cloudflare.
   
 - **Dados qualitativos/quantitativos**: Otimizei a performance com algoritimo xpto. 
 
