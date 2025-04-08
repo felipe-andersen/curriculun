@@ -13,9 +13,9 @@ felipe.coutinho.psl@gmail.com <br/>
 
 [Linkedin](https://www.linkedin.com/in/felipe-a-dev♨-565b6a208/) 
 
-## Resumo
+## Sobre
 
-Tenho habilidades em lógica, programação e resolução de problemas, com paixão por lançamentos de novos produtos. Trabalho bem com prazos curtos e atuo com uma mentalidade ágil, orientado desenvolvimento estratégico do produto/negócio .
+Venho aprimorando habilidades de comunicação para se comunicar de forma objetiva e assertiva. Pratico a visão a longo prazo para se antecipar a possíveis cenários e sugerir estratégias em nível técnico e de negócio. Adoto uma postura crítica com relação ao negócio/produto para aumentar o entendimento e propor ideias e sugestões que entregam percepção de valor para stakeholders.
 
 ## Experiência/portifólio
 
