@@ -21,7 +21,7 @@ Venho aprimorando habilidades de comunicação para me expressar de forma objeti
 #### Esteticar | Jan/2024 – Atual
 https://esteticarapp.decortise.com.br/dashboard/PDV
 
-- Sistema de gestão de lava-jato. Projeto fullstack onde implementei arquitetura (MVVM), defini de regras de negócio, e implementei conceitos como carregamento rápido, código modular, ui/ux, etc.
+- Sistema de gestão de lava-jato. Projeto fullstack onde implementei arquitetura (MVVM), defini de regras de negócio, banco de dados, e implementei conceitos como carregamento rápido, código modular, ui/ux, etc.
 
 - **Ferramentas e tecnologias**: typescript, nextjs, supabase, vitest, docker, cloudflare e nginx.
 
