@@ -14,7 +14,7 @@ Linkedin: https://www.linkedin.com/in/felipe-a-dev♨-565b6a208/
 
 ## Resumo
 
-Venho aprimorando habilidades de comunicação para me expressar de forma objetiva e assertiva. Pratico a visão a longo prazo e antecipando a possíveis cenários e sugerindo estratégias em nível técnico e de negócio. Adoto uma postura crítica com relação ao negócio/produto para entender melhor o contexto e propor ideias e sugestões que entregam percepção de valor para stakeholders.
+Venho aprimorando habilidades de comunicação para me expressar de forma objetiva e assertiva. Pratico visão a longo prazo e antecipando a possíveis cenários sempre procuro sugerir estratégias em nível técnico e de negócio. Adoto uma postura crítica com relação ao negócio/produto para entender melhor o contexto e propor ideias e sugestões que entregam percepção de valor para stakeholders.
 
 ## Experiência/portifólio
 
