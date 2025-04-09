@@ -44,15 +44,23 @@ https://www.figma.com/design/kLqsffeTsYgkviDlChNrOt/Terramade?m=auto&t=V2DbvHTE1
 
 ## Cursos
 
-#### Mentoria Faladev | Out/2024 – Atual
-https://www.linkedin.com/company/fala-dev/
+### Faladev | Out/2024 – Atual
+Mentorado | Mentoria sobre carreira dev
+
+- https://www.linkedin.com/company/fala-dev/
 
 - Mentorias semanais sobre carreira tech com Marcos Fonseca e Isaac Gomes.
   
 - Temas abordados: Comunicação, posicionamento, trabalho em equipe, cargos e promoções, produtividade, empreendedorismo, etc.
 
-#### Ignite Trilha mobile Rocketseat | Jan/2022 – Dez/2022
+- Habilidades treinadas: Comunicação, marca pessoal e negociação.
 
-- Curso profissionalizante com duração de 1 ano.
+### Rocketseat | Jan/2022 – Dez/2022
+Curso profissionalizante | Ignite (Trilha Desenvolvimento Mobile)
 
-- React native, typescript, css-in-js, expo, teste de unitários e teste de integração, autenticação social, ci/cd, Play Store, Apple App Store.
+- Curso de desenvolvimento mobile (cross-plataform) utilizando a biblioteca react-native e expo.
+
+- Grade: React native, typescript, css-in-js, expo, teste de unitários e teste de integração, autenticação social, ci/cd, Play Store, Apple App Store.
+
+- Habilidades treinadas: Comunicação, trabalho em equipe
+
